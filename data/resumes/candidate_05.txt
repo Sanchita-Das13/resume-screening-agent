@@ -1,0 +1,35 @@
+﻿ROHIT DAS
+
+Data Scientist
+
+SUMMARY
+Data Scientist with 3 years of experience in data analysis,
+machine learning and statistical modeling.
+
+SKILLS
+Python
+Machine Learning
+SQL
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+Data Analysis
+Statistics
+Excel
+Power BI
+
+EXPERIENCE
+Data Scientist
+Analytics Corp
+2023 - Present
+
+Developed machine learning models using Python and Scikit-learn.
+Performed data analysis using Pandas and NumPy.
+Created dashboards and analyzed business datasets.
+Built predictive models for business applications.
+
+EDUCATION
+B.Sc in Computer Science
+City University
+2023

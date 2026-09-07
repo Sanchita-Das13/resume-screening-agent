@@ -1,0 +1,34 @@
+﻿PRIYA SEN
+
+Machine Learning Engineer
+
+SUMMARY
+Machine Learning Engineer with 3 years of experience building machine learning
+and NLP applications.
+
+SKILLS
+Python
+Machine Learning
+Deep Learning
+NLP
+SQL
+Scikit-learn
+TensorFlow
+Pandas
+NumPy
+RAG
+LangChain
+Docker
+
+EXPERIENCE
+Machine Learning Engineer
+Tech Solutions
+2023 - Present
+
+Developed ML models and NLP applications using Python and Scikit-learn.
+Built RAG pipelines and deployed applications using Docker.
+
+EDUCATION
+B.Tech in Computer Science
+XYZ University
+2023

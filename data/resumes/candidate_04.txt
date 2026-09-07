@@ -1,0 +1,36 @@
+﻿NEHA ROY
+
+Generative AI Engineer
+
+SUMMARY
+Generative AI Engineer with 2 years of experience building LLM,
+RAG and NLP applications.
+
+SKILLS
+Python
+Machine Learning
+NLP
+Generative AI
+Large Language Models
+RAG
+LangChain
+Hugging Face
+Vector Databases
+OpenAI API
+Docker
+SQL
+
+EXPERIENCE
+Generative AI Engineer
+AI Labs
+2024 - Present
+
+Developed LLM-powered applications using OpenAI API.
+Built RAG pipelines using LangChain and vector databases.
+Developed NLP applications and evaluated language models.
+Deployed AI applications using Docker.
+
+EDUCATION
+M.Tech in Artificial Intelligence
+Tech University
+2024

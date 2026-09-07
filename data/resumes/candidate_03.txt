@@ -1,0 +1,34 @@
+﻿ARJUN MEHTA
+
+AI/ML Engineer
+
+SUMMARY
+AI/ML Engineer with 2 years of experience developing machine learning,
+deep learning and NLP solutions.
+
+SKILLS
+Python
+Machine Learning
+Deep Learning
+NLP
+SQL
+Scikit-learn
+TensorFlow
+Pandas
+NumPy
+Docker
+
+EXPERIENCE
+AI/ML Engineer
+DataTech Solutions
+2024 - Present
+
+Built machine learning classification and regression models.
+Developed NLP applications using Python and TensorFlow.
+Processed datasets using Pandas and NumPy.
+Deployed machine learning services using Docker.
+
+EDUCATION
+B.Tech in Computer Science
+National Institute of Technology
+2024

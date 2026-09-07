@@ -1,0 +1,34 @@
+﻿AMIT KUMAR
+
+Software Engineer
+
+SUMMARY
+Software Engineer with 3 years of experience in backend development
+and 1 year of hands-on experience with machine learning.
+
+SKILLS
+Python
+Java
+SQL
+Machine Learning
+Pandas
+NumPy
+Scikit-learn
+Docker
+REST APIs
+Git
+
+EXPERIENCE
+Software Engineer
+CodeWorks
+2023 - Present
+
+Developed backend applications using Python and Java.
+Built basic machine learning models using Scikit-learn.
+Processed datasets using Pandas and NumPy.
+Containerized applications using Docker.
+
+EDUCATION
+B.Tech in Information Technology
+ABC Institute
+2023

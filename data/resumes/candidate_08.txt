@@ -1,0 +1,37 @@
+﻿KARAN SINGH
+
+NLP Engineer
+
+SUMMARY
+NLP Engineer with 2 years of experience developing natural language
+processing and machine learning applications.
+
+SKILLS
+Python
+Machine Learning
+NLP
+Deep Learning
+Generative AI
+Large Language Models
+Hugging Face
+RAG
+LangChain
+SQL
+Pandas
+NumPy
+
+EXPERIENCE
+NLP Engineer
+LanguageTech
+2024 - Present
+
+Developed NLP models for text classification and information extraction.
+Built applications using large language models.
+Created RAG pipelines using LangChain.
+Worked with Hugging Face models and Python.
+Processed text datasets using Pandas and NumPy.
+
+EDUCATION
+M.Sc in Computer Science
+Tech University
+2024

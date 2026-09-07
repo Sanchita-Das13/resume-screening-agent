@@ -1,0 +1,14 @@
+﻿Baseline Test Result
+
+Candidate: candidate_01
+Semantic Similarity: 52.3%
+Skill Match: 70.0%
+Experience Match: 100%
+Education Match: 100%
+Final Score: 80.23%
+
+Method:
+TF-IDF + Cosine Similarity
+Keyword-based Skill Matching
+Regex-based Experience Extraction
+Keyword-based Education Matching

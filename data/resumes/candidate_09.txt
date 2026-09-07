@@ -1,0 +1,34 @@
+﻿VIKAS SHARMA
+
+Backend Developer
+
+SUMMARY
+Backend Developer with 4 years of experience building scalable
+web applications and APIs.
+
+SKILLS
+Java
+Python
+SQL
+Spring Boot
+REST APIs
+Microservices
+Docker
+Git
+PostgreSQL
+AWS
+
+EXPERIENCE
+Backend Developer
+Enterprise Systems
+2022 - Present
+
+Developed REST APIs using Java and Spring Boot.
+Built microservices and database applications.
+Deployed backend services using Docker and AWS.
+Worked with SQL and PostgreSQL databases.
+
+EDUCATION
+B.Tech in Computer Science
+Engineering College
+2022

@@ -1,0 +1,300 @@
+@"
+PRIYA SEN
+
+Machine Learning Engineer
+
+SUMMARY
+Machine Learning Engineer with 3 years of experience building machine learning
+and NLP applications.
+
+SKILLS
+Python
+Machine Learning
+Deep Learning
+NLP
+SQL
+Scikit-learn
+TensorFlow
+Pandas
+NumPy
+RAG
+LangChain
+Docker
+
+EXPERIENCE
+Machine Learning Engineer
+Tech Solutions
+2023 - Present
+
+Developed ML models and NLP applications using Python and Scikit-learn.
+Built RAG pipelines and deployed applications using Docker.
+
+EDUCATION
+B.Tech in Computer Science
+XYZ University
+2023
+"@ | Set-Content ".\data\resumes\candidate_02.txt" -Encoding UTF8
+
+@"
+ARJUN MEHTA
+
+Data Scientist
+
+SUMMARY
+Data Scientist with 2 years of experience in data analysis and machine learning.
+
+SKILLS
+Python
+Machine Learning
+SQL
+Pandas
+NumPy
+Scikit-learn
+Power BI
+Statistics
+
+EXPERIENCE
+Data Scientist
+Data Corp
+2024 - Present
+
+Built machine learning models and analyzed business datasets using Python.
+
+EDUCATION
+B.Sc in Statistics
+ABC College
+2024
+"@ | Set-Content ".\data\resumes\candidate_03.txt" -Encoding UTF8
+
+@"
+NEHA ROY
+
+AI Engineer
+
+SUMMARY
+AI Engineer with 4 years of experience developing artificial intelligence
+and Generative AI applications.
+
+SKILLS
+Python
+Machine Learning
+Deep Learning
+NLP
+Generative AI
+SQL
+PyTorch
+TensorFlow
+LLM
+RAG
+Hugging Face
+Vector Databases
+LangChain
+Docker
+Cloud
+
+EXPERIENCE
+AI Engineer
+Innovation Labs
+2022 - Present
+
+Developed LLM applications, RAG systems and deep learning models.
+Deployed AI services on cloud infrastructure.
+
+EDUCATION
+M.Tech in Artificial Intelligence
+ABC University
+2022
+"@ | Set-Content ".\data\resumes\candidate_04.txt" -Encoding UTF8
+
+@"
+ROHAN DAS
+
+Software Developer
+
+SUMMARY
+Software Developer with 2 years of experience developing web applications.
+
+SKILLS
+Java
+JavaScript
+React
+HTML
+CSS
+SQL
+Git
+REST API
+
+EXPERIENCE
+Software Developer
+Web Systems
+2024 - Present
+
+Developed web applications and REST APIs.
+
+EDUCATION
+B.Tech in Information Technology
+XYZ University
+2024
+"@ | Set-Content ".\data\resumes\candidate_05.txt" -Encoding UTF8
+
+@"
+ANANYA GUPTA
+
+NLP Engineer
+
+SUMMARY
+NLP Engineer with 2 years of experience developing natural language
+processing and Generative AI solutions.
+
+SKILLS
+Python
+Machine Learning
+NLP
+Deep Learning
+Generative AI
+Transformers
+Hugging Face
+LLM
+RAG
+LangChain
+Pandas
+NumPy
+SQL
+
+EXPERIENCE
+NLP Engineer
+AI Research
+2024 - Present
+
+Built NLP classification systems and LLM-powered applications.
+Developed RAG pipelines for document search.
+
+EDUCATION
+B.Tech in Computer Science
+ABC University
+2024
+"@ | Set-Content ".\data\resumes\candidate_06.txt" -Encoding UTF8
+
+@"
+VIKRAM SINGH
+
+Cloud Engineer
+
+SUMMARY
+Cloud Engineer with 5 years of experience designing cloud infrastructure.
+
+SKILLS
+AWS
+Azure
+Docker
+Kubernetes
+Python
+Linux
+Terraform
+CI/CD
+Cloud Computing
+
+EXPERIENCE
+Cloud Engineer
+Cloud Systems
+2021 - Present
+
+Designed and maintained cloud infrastructure and deployment pipelines.
+
+EDUCATION
+B.Tech in Computer Science
+XYZ University
+2021
+"@ | Set-Content ".\data\resumes\candidate_07.txt" -Encoding UTF8
+
+@"
+MEERA IYER
+
+Junior AI Developer
+
+SUMMARY
+Junior AI Developer with 1 year of experience working on machine learning
+and artificial intelligence projects.
+
+SKILLS
+Python
+Machine Learning
+NLP
+Generative AI
+SQL
+Pandas
+NumPy
+Scikit-learn
+
+EXPERIENCE
+AI Developer
+AI Startup
+2025 - Present
+
+Developed machine learning models and NLP applications using Python.
+
+EDUCATION
+B.Tech in Computer Science
+ABC University
+2025
+"@ | Set-Content ".\data\resumes\candidate_08.txt" -Encoding UTF8
+
+@"
+ADITYA KUMAR
+
+Backend Developer
+
+SUMMARY
+Backend Developer with 3 years of experience building scalable applications.
+
+SKILLS
+Python
+Django
+FastAPI
+SQL
+PostgreSQL
+Docker
+REST API
+Git
+
+EXPERIENCE
+Backend Developer
+Software Solutions
+2023 - Present
+
+Developed backend APIs and database-driven applications.
+
+EDUCATION
+B.Tech in Computer Science
+ABC University
+2023
+"@ | Set-Content ".\data\resumes\candidate_09.txt" -Encoding UTF8
+
+@"
+SNEHA PATEL
+
+Machine Learning Intern
+
+SUMMARY
+Machine Learning enthusiast with less than 1 year of practical experience.
+
+SKILLS
+Python
+Machine Learning
+NLP
+Pandas
+NumPy
+Scikit-learn
+
+EXPERIENCE
+ML Intern
+AI Labs
+2026 - Present
+
+Worked on machine learning experiments and data preprocessing.
+
+EDUCATION
+B.Tech in Computer Science
+XYZ University
+2026
+"@ | Set-Content ".\data\resumes\candidate_10.txt" -Encoding UTF8

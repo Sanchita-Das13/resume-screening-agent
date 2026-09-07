@@ -1,0 +1,42 @@
+﻿Job Title: AI/ML Engineer
+
+We are looking for an AI/ML Engineer to design, develop and deploy
+machine learning and artificial intelligence solutions.
+
+Required Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- SQL
+- Scikit-learn
+- TensorFlow or PyTorch
+- Pandas
+- NumPy
+
+Preferred Skills:
+- Large Language Models
+- RAG
+- LangChain
+- Hugging Face
+- Vector Databases
+- OpenAI API
+- Docker
+- Cloud platforms
+
+Experience:
+- 1-3 years of experience in machine learning, artificial intelligence,
+  data science, or related fields.
+
+Education:
+- Bachelor's or Master's degree in Computer Science, Artificial Intelligence,
+  Data Science, Information Technology, or a related field.
+
+Responsibilities:
+- Develop and evaluate machine learning models.
+- Build NLP and Generative AI applications.
+- Process and analyze large datasets.
+- Develop AI-powered applications using LLMs.
+- Work with cross-functional teams.
+- Deploy and maintain machine learning solutions.

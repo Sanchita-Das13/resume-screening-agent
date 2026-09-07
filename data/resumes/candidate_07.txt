@@ -1,0 +1,32 @@
+﻿SIMRAN GUPTA
+
+Junior AI Engineer
+
+SUMMARY
+Recent Computer Science graduate with internship experience in
+machine learning and artificial intelligence.
+
+SKILLS
+Python
+Machine Learning
+NLP
+Generative AI
+Pandas
+NumPy
+Scikit-learn
+SQL
+
+EXPERIENCE
+AI Intern
+Innovate AI
+2025 - 2026
+
+Worked on machine learning experiments using Python.
+Developed basic NLP classification models.
+Used Pandas and NumPy for data processing.
+Assisted with Generative AI experiments.
+
+EDUCATION
+B.Tech in Computer Science
+State University
+2025
